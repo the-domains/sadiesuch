@@ -1,0 +1,28 @@
+name: sadiesuch
+favicon: null
+layout_spectrum: 0.16903637908399105
+typography_spectrum: 0.6752866103779525
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.3036114485003054
+  lightness: 0.1681723385117948
+  saturation: 0.13660576264373958
+  rhythmicContrast: 0.8844052581116557
+purpose: []
