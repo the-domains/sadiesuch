@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[sadiesuch]]></title>
         <description><![CDATA[sadiesuch]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/sadiesuch/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 19 Apr 2016 03:09:43 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 26 Jun 2016 18:55:39 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/sadiesuch/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/cf695388-0960-4f9a-8e7e-021129b99279.jpg">]]></description>
+            <link>https://thegrid.ai/sadiesuch/capture-inspire-love/index.html</link>
+            <guid isPermaLink="false">5847a10a-235d-4d3f-8117-945ef3faf9cf</guid>
+            <pubDate>Sun, 26 Jun 2016 18:55:37 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f61edbc1-d7fe-48c9-bfc3-9b20818bc731.jpg">]]></description>
-            <link>undefinedlove-and-commitment/index.html</link>
+            <link>https://thegrid.ai/sadiesuch/love-and-commitment/index.html</link>
             <guid isPermaLink="false">9597e756-b8fa-4481-9822-a1ba253200b6</guid>
             <pubDate>Tue, 19 Apr 2016 03:09:42 GMT</pubDate>
         </item>
